@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "echarts": "^6.0.0"
+  },
+  "scripts": {
+    "dev": "wails dev",
+    "build": "wails build"
+  }
+}
